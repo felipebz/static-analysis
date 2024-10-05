@@ -2025,7 +2025,7 @@ but with the following improvements:
 
 - [markdownlint](https://github.com/DavidAnson/markdownlint) — Node.js -based style checker and lint tool for Markdown/CommonMark files.
 
-- [mdformat](https://mdformat.rtfd.io) :warning: — CommonMark compliant Markdown formatter
+- [mdformat](https://mdformat.rtfd.io) — CommonMark compliant Markdown formatter
 
 - [mdl](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
 
